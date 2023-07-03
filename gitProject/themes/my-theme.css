@@ -1,0 +1,15 @@
+/* @theme my-theme */
+@import 'default';
+
+section {
+  background: #060606 ;
+  color : rgb(249, 247, 251);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(249, 247, 251);
+}
+
+pre, code {
+  color: rgb(4, 4, 4);
+}
